@@ -8,6 +8,6 @@ Related resources:
 [How could the web have been developed following Alan Kay's vision of a browser being a mini-operating system and not just an application?](https://www.quora.com/How-could-the-web-have-been-developed-following-Alan-Kays-vision-of-a-browser-being-a-mini-operating-system-and-not-just-an-application)  
 [Normal Considered Harmful](https://www.youtube.com/watch?v=FvmTSpJU-Xc) 16:02 - 27:00
 
-[Seminar on Object Oriented Programming](https://www.youtube.com/watch?v=QjJaFG63Hlo); starts at 2:13:00
-
+#### [Seminar on Object Oriented Programming](https://www.youtube.com/watch?v=QjJaFG63Hlo); starts at 2:13:00
+The original Smalltalk did not use kind of procedure call ... it really acted as you were on a network. ... When you run Smalltalk over a network people make connection to the network by having what are called phantom objects. Phantom object is a stand-in for the object you are sending message to ... cause you are always sending a message to something. [Further explanation is done whith [this](slides/sending-an-object.png) slide]
 
