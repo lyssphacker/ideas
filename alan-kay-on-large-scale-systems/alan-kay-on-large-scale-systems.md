@@ -14,15 +14,15 @@ This is the earliest known form of what we call data abstraction. It goes all th
 
 #### [What if "data" is a really bad idea? - excerpt of exchange between Alan Kay and Rich Hickey](https://news.ycombinator.com/item?id=11945722)  
 
-RH: Data like that sentence? Or all of the other sentences in this chat? I find 'data' hard to consider a bad idea in and of itself, i.e. if data == information, records of things known/uttered at a point in time. Could you talk more about data being a bad idea?
+**RH:** Data like that sentence? Or all of the other sentences in this chat? I find 'data' hard to consider a bad idea in and of itself, i.e. if data == information, records of things known/uttered at a point in time. Could you talk more about data being a bad idea?
 
-AK:  What is "data" without an interpreter (and when we send "data" somewhere, how can we send it so its meaning is preserved?) 
+**AK:**  What is "data" without an interpreter (and when we send "data" somewhere, how can we send it so its meaning is preserved?) 
 
-RH: Data without an interpreter is certainly subject to (multiple) interpretation :) For instance, the implications of your sentence weren't clear to me, in spite of it being in English (evidently, not indicated otherwise). Some metadata indicated to me that you said it (should I trust that?), and when. But these seem to be questions of quality of representation/conveyance/provenance (agreed, important) rather than critiques of data as an idea. Yes, there is a notion of sufficiency ('42' isn't data).
+**RH:** Data without an interpreter is certainly subject to (multiple) interpretation :) For instance, the implications of your sentence weren't clear to me, in spite of it being in English (evidently, not indicated otherwise). Some metadata indicated to me that you said it (should I trust that?), and when. But these seem to be questions of quality of representation/conveyance/provenance (agreed, important) rather than critiques of data as an idea. Yes, there is a notion of sufficiency ('42' isn't data).
 
 Data is an old and fundamental idea. Machine interpretation of un- or under-structured data is fueling a ton of utility for society. None of the inputs to our sensory systems are accompanied by explanations of their meaning. Data - something given, seems the raw material of pretty much everything else interesting, and interpreters are secondary, and perhaps essentially, varied.
 
-AK: There are lots of "old and fundamental" ideas that are not good anymore, if they ever were.
+**AK:** There are lots of "old and fundamental" ideas that are not good anymore, if they ever were.
 
 The point here is that you were able to find the interpreter of the sentence and ask a question, but the two were still separated. For important negotiations we don't send telegrams, we send ambassadors.
 
@@ -30,7 +30,7 @@ This is what objects are all about, and it continues to be amazing to me that th
 
 This is particularly germane to your last paragraph. Please think especially hard about what you are taking for granted in your last sentence.
 
-RH: Without the 'idea' of data we couldn't even have a conversation about what interpreters interpret. How could it be a "really bad" idea? Data needn't be accompanied by an interpreter. I'm not saying that interpreters are unimportant/uninteresting, but they are separate. Nor have I said or implied that data is inherently meaningful.
+**RH:** Without the 'idea' of data we couldn't even have a conversation about what interpreters interpret. How could it be a "really bad" idea? Data needn't be accompanied by an interpreter. I'm not saying that interpreters are unimportant/uninteresting, but they are separate. Nor have I said or implied that data is inherently meaningful.
 
 Take a stream of data from a seismometer. The seismometer might just record a stream of numbers. It might put them on a disk. Completely separate from that, some person or process, given the numbers and the provenance alone (these numbers are from a seismometer), might declare "there is an earthquake coming". But no object sent an "earthquake coming" "message". The seismometer doesn't "know" an earthquake is coming (nor does the earth, the source of the 'messages' it records), so it can't send a "message" incorporating that "meaning". There is no negotiation or direct connection between the source and the interpretation.
 
@@ -38,8 +38,8 @@ We will soon be drowning in a world of IoT sensors sending context-or-provenance
 
 If you meant to convey "data alone makes for weak messages/ambassadors", well ok. But richer messages will just bottom out at more data (context metadata, semantic tagging, all more data) Ditto, as someone else said, any accompanying interpreter (e.g. bytecode? - more data needing interpretation/execution). Data remains a perfectly useful and more fundamental idea than "message". In any case, I thought we were talking about data, not objects. I don't think there is a conflict between these ideas.
 
-AK: 2nd Paragraph: How do they know they are even bits? How do they know the bits are supposed to be numbers? What kind of numbers? Relating to what?
+**AK:** 2nd Paragraph: How do they know they are even bits? How do they know the bits are supposed to be numbers? What kind of numbers? Relating to what?
 
 Etc
 
-RH: It contravenes the common and historical use of the word 'data' to imply undifferentiated bits/scribbles. It means facts/observations/measurements/information and you must at least grant it sufficient formatting and metadata to satisfy that definition. The fact that most data requires some human involvement for interpretation (e.g. pointing the right program at the right data) in no way negates its utility (we've learned a lot about the universe by recording data and analyzing it over the centuries), even though it may be insufficient for some bootstrapping system you envision.
+**RH:** It contravenes the common and historical use of the word 'data' to imply undifferentiated bits/scribbles. It means facts/observations/measurements/information and you must at least grant it sufficient formatting and metadata to satisfy that definition. The fact that most data requires some human involvement for interpretation (e.g. pointing the right program at the right data) in no way negates its utility (we've learned a lot about the universe by recording data and analyzing it over the centuries), even though it may be insufficient for some bootstrapping system you envision.
