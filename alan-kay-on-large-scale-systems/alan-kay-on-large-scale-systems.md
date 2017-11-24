@@ -71,7 +71,7 @@ And, yes, the reason we did “Worlds” (and Alex did a great job on this!) was
 
 ---
 
-[Exchange with Tony Li](https://www.quora.com/How-could-the-web-have-been-developed-following-Alan-Kays-vision-of-a-browser-being-a-mini-operating-system-and-not-just-an-application)  
+#### [Exchange with Tony Li](https://www.quora.com/How-could-the-web-have-been-developed-following-Alan-Kays-vision-of-a-browser-being-a-mini-operating-system-and-not-just-an-application)  
 
 **TI**: Imagine the browser instead as a Java virtual machine that you would download code into and execute. Not only could it present a user interface, but it could also do client side computation.
 
@@ -95,7 +95,7 @@ Even with the poor use of gazillions of gates in modern CPUs, it is possible to 
 
 Until then the responsible amount of computation that can be done on the client has to be exceedingly limited and undoubtedly inadequate by your standards. Sorry to say this, but we’ve blown off security for far too long and it’s now come back to bite us. Until we fix it, we won’t be making significant forward progress.
 
-[Exchange with Miles Fidelman](https://www.quora.com/How-could-the-web-have-been-developed-following-Alan-Kays-vision-of-a-browser-being-a-mini-operating-system-and-not-just-an-application)  
+#### [Exchange with Miles Fidelman](https://www.quora.com/How-could-the-web-have-been-developed-following-Alan-Kays-vision-of-a-browser-being-a-mini-operating-system-and-not-just-an-application)  
 
 **MF**: HyperCard almost got us there. So did OpenDoc.
 
