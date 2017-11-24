@@ -45,5 +45,5 @@ Etc
 
 #### [Normal Considered Harmful](https://www.youtube.com/watch?v=FvmTSpJU-Xc) 16:02 - 27:00
 related slides:  
-[1](slides/reasonable-questions.png)[2](slides/16-years-ago.png)[3](slides/how-should-this-really-been-done.png)
+[[1]](slides/reasonable-questions.png)[[2]](slides/16-years-ago.png)[[3]](slides/how-should-this-really-been-done.png)
 Some years ago my wife ... she had one of these huge Mac Cinema displays on her desk, and she showed me this display. It is kind of odd. Over here she had all the applications that she used were WYSIWYG. She really like them. Here are all the stuff she does on the web and none of it was WYSIWYG at that time. In these apps I can see and do full WYSIWYG authoring. Web broswer has all these modes, I have to type throught a keyhole, I have to wait to see whether what I did is ok. She asked me, why is that? I said, because the stuff she liked was invented in the 70s and the stuff she does not like was invented 20 years later. What do you think about that? How could that happen? ...
