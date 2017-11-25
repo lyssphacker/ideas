@@ -152,6 +152,8 @@ The first great practical demonstration of "dynamic mobile processes" across het
 
 There are also some "unfortunate" stabs at universal interfaces that pretty much missed the point of scaling, the Internet, and heterogeneity of software -- for example: [CORBA](https://en.wikipedia.org/wiki/Common_Object_Request_Broker_Architecture).
 
+---
+
 #### Excerpts from [Alan Kay has agreed to do an AMA today](https://news.ycombinator.com/item?id=11948686)
 
 **AK**: It's worth thinking about what scales and what doesn't scale so well. For example, names are relatively local conventions. We could expect to have to find better ways to describe resources, or perhaps "send processes rather than messages". Think about what's really interesting about the way Parc used what became Postscript instead of trying to define a file format for "documents" for printers ... (a programming language can have far few conventions and be more powerful, so ...)
