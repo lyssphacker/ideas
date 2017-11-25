@@ -151,3 +151,22 @@ Of great note is the [1978 MIT PhD thesis by Dave Reed](http://publications.csai
 The first great practical demonstration of "dynamic mobile processes" across heterogeneous hardware was done in ["The LOCUS Operating System"](https://mitpress.mit.edu/books/locus-distributed-system-architecture) by Gerry Popek and his group at UCLA during the early 80s. This wasn't extended beyond underlying Unix processes, but could have been. The first several chapters of the MIT Press book are excellent in laying out the general issues for machine independent processes.
 
 There are also some "unfortunate" stabs at universal interfaces that pretty much missed the point of scaling, the Internet, and heterogeneity of software -- for example: [CORBA](https://en.wikipedia.org/wiki/Common_Object_Request_Broker_Architecture).
+
+#### Excerpts from [Alan Kay has agreed to do an AMA today](https://news.ycombinator.com/item?id=11948686)
+
+**AK**: It's worth thinking about what scales and what doesn't scale so well. For example, names are relatively local conventions. We could expect to have to find better ways to describe resources, or perhaps "send processes rather than messages". Think about what's really interesting about the way Parc used what became Postscript instead of trying to define a file format for "documents" for printers ... (a programming language can have far few conventions and be more powerful, so ...)
+
+**Hacker**: Thanks, Alan. I guess sometimes is hard to think about that level of scaling when working on the industry... or at least in projects that are not that massive.
+I assume your are talking in the lines of "call by meaning" when you mention that names are relatively local, right?
+As for "send processes rather than messages", isn't that what objects are about?
+I mean...sending the real thing, not just "data" as part of a message. That reminds me of the Burroughs 220 and "delivering video + codec together" example you mention in your talks.
+
+**AK**: Modularity is: what is the minimum you need to know to make use of a module, and what is the minimum that a module needs to know to help you?
+Making this good is one of the secrets of scaling
+
+**Hacker**: Im afraid I'm missing the point about "sending processes rather than messages".
+The modularity thing sounds pretty much to well designed objects to me, but it seems that you're trying to make a difference between that and processes.
+What do you have in mind or, better said, which could be a concrete example of it?
+
+**AK**: The question is whether a "message" has enough "stuff" to reify into a real process (so it can help interpretation and negotiation) or whether the receiver has to do all the work (and thus perhaps has to know too much for graceful scaling of the system).
+
