@@ -1,0 +1,13 @@
+[Alan Kay at OOPSLA 1997](http://www.youtube.com/watch?v=oKg1hTOQXoY&t=45m54s)  
+
+So let me ask a question. I won't take names. But how many people here still use a language that essentially forces you—and the development system forces you to develop outside of the language; compile and reload, and go, even if it's fast, like Virtual Café.—How many here still do that? Let's just see. Come on. Admit it! We can have a Texas tent beating later. [Smiles] [Laughter] That cannot possibly be other than a dead end for building complex systems, where much of the building of complex systems is in part going to go into trying to understand what the possibilities for interoperability is with things that already exist.
+
+[Revised Report on the Propagator Model](https://groups.csail.mit.edu/mac/users/gjs/propagators/)  
+
+The most important problem facing a programmer is the revision of an existing program to extend it for some new situation. Unfortunately, the traditional models of programming provide little support for this activity. The programmer often finds that commitments made in the existing code impede the extension, but the costs of reversing those commitments are excessive.
+
+Such commitments tend to take the form of choices of strategy. In the design of any significant system there are many implementation plans proposed for every component at every level of detail. However, in the system that is finally delivered this diversity of plans is lost and usually only one unified plan is adopted and implemented. As in an ecological system, the loss of diversity in the traditional engineering process has serious consequences.
+
+The Propagator Programming Model is an attempt to mitigate this problem. It is a model that supports the expression and integration of multiple viewpoints on a design. It incorporates explicit structure to support the integration of redundant pieces and subsystems that solve problems in several different ways. It will help us integrate the diversity that was inherent in the design process into the delivered operational product.
+
+The Propagator Programming Model is built on the idea that the basic computational elements are autonomous machines interconnected by shared cells through which they communicate. Each machine continuously examines the cells it is interested in, and adds information to some based on computations it can make from information from the others. Cells accumulate information from the propagators that produce that information. The key idea here is additivity. New ways to make contributions can be added just by adding new propagators; if an approach to a problem doesn't turn out to work well, it can be identified by its premises and ignored, dynamically and without disruption.
