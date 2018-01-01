@@ -3,4 +3,4 @@ Protocols are in the context of OOP mentioned in:
 2. [Scott McKay at Dynamic Languages Wizards Panel (runtime topic)](https://www.youtube.com/watch?v=SjbtEnfm7_Q)  
 3. [The Art of the Metaobject Protocol](https://www.amazon.com/Art-Metaobject-Protocol-Gregor-Kiczales/dp/0262610744/ref=sr_1_1?s=books&ie=UTF8&qid=1511408030&sr=1-1&keywords=metaobject+protocol)
 4. [Seminar on Object Oriented Programming](https://www.youtube.com/watch?v=QjJaFG63Hlo)
-5. [Squeak by Example](https://hal.inria.fr/inria-00441576/file/SBE.pdf): Protocols are groups of related methods.
+5. [Design Principles Behind Smalltalk](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
