@@ -13,3 +13,7 @@ Such commitments tend to take the form of choices of strategy. In the design of 
 The Propagator Programming Model is an attempt to mitigate this problem. It is a model that supports the expression and integration of multiple viewpoints on a design. It incorporates explicit structure to support the integration of redundant pieces and subsystems that solve problems in several different ways. It will help us integrate the diversity that was inherent in the design process into the delivered operational product.
 
 The Propagator Programming Model is built on the idea that the basic computational elements are autonomous machines interconnected by shared cells through which they communicate. Each machine continuously examines the cells it is interested in, and adds information to some based on computations it can make from information from the others. Cells accumulate information from the propagators that produce that information. The key idea here is additivity. New ways to make contributions can be added just by adding new propagators; if an approach to a problem doesn't turn out to work well, it can be identified by its premises and ignored, dynamically and without disruption.
+
+#### [Stanford EE 380 class by Allison, Wharton](https://www.youtube.com/watch?v=G8X-yvDWClc)  
+
+Stay late.
