@@ -31,6 +31,6 @@ What are differences between "real OOP" (as Alan Kay calls it) and conventional 
 5. [Design Principles Behind Smalltalk](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
 
 
-Questions:
+#### Questions
 1. Does message-oriented middleware have anything to do with real object-oriented programming?
 2. Are Java interfaces equivalent to protocols in Smalltalk? (some [hints](https://en.wikipedia.org/wiki/Protocol_(object-oriented_programming)))
