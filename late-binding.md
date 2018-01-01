@@ -1,8 +1,10 @@
-### [Alan Kay at OOPSLA 1997](http://www.youtube.com/watch?v=oKg1hTOQXoY&t=45m54s)  
+### Late binding
+
+#### [Alan Kay at OOPSLA 1997](http://www.youtube.com/watch?v=oKg1hTOQXoY&t=45m54s)  
 
 So let me ask a question. I won't take names. But how many people here still use a language that essentially forces you—and the development system forces you to develop outside of the language; compile and reload, and go, even if it's fast, like Virtual Café.—How many here still do that? Let's just see. Come on. Admit it! We can have a Texas tent beating later. [Smiles] [Laughter] That cannot possibly be other than a dead end for building complex systems, where much of the building of complex systems is in part going to go into trying to understand what the possibilities for interoperability is with things that already exist. I just played a very minor part in the design of the ARPANET. I was one of thirty graduate students who went to systems design meetings to try and formulate design principles for the ARPANET, also about thirty years ago. The ARPNANET, of course, became the Internet, and from the time it started running—just around 1969 or so—to this day, it has expanded by about a factor of a hundred million. That's pretty good. Eight orders of magnitude. I talked to Larry Roberts about this the other day. There is not one physical atom in the Internet today, that was in the original ARPANET. There is not one line of code in the Internet today that was in the original ARPANET. Of course, if we had IBM main frames in the original ARPANET, that wouldn't have been true. This is a system that has expanded by a hundred million, has changed every atom and every bit, and has never had to stop. That is the metaphor we absolutely must apply to what we think are smaller things. When we think programming is small, that's why your programs are so big. That's why they become pyramids instead of gothic cathedrals.
 
-### [Revised Report on the Propagator Model](https://groups.csail.mit.edu/mac/users/gjs/propagators/)  
+#### [Revised Report on the Propagator Model](https://groups.csail.mit.edu/mac/users/gjs/propagators/)  
 
 The most important problem facing a programmer is the revision of an existing program to extend it for some new situation. Unfortunately, the traditional models of programming provide little support for this activity. The programmer often finds that commitments made in the existing code impede the extension, but the costs of reversing those commitments are excessive.
 
