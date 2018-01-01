@@ -17,3 +17,5 @@ How original inventors of Smalltalk and OOP were thinking about what they were d
 8.4. [The Early History of Smalltalk](http://worrydream.com/EarlyHistoryOfSmalltalk/): "In computer terms, Smalltalk is a recursion on the notion of computer itself. Instead of dividing "computer stuff" into things each less strong than the whole—like data structures, procedures, and functions which are the usual paraphernalia of programming languages—each Smalltalk object is a recursion on the entire possibilities of the computer. Thus its semantics are a bit like having thousands and thousands of computers all hooked together by a very fast network."  
 9. [What did Alan Kay mean by, "I made up the term object-oriented, and I can tell you I did not have C++ in mind."?](https://www.quora.com/What-did-Alan-Kay-mean-by-I-made-up-the-term-object-oriented-and-I-can-tell-you-I-did-not-have-C++-in-mind)
 
+Questions:
+1. Does message-oriented middleware have anything to do with real object-oriented programming?
