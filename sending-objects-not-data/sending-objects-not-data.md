@@ -175,3 +175,7 @@ What do you have in mind or, better said, which could be a concrete example of i
 #### Excerpt from [Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions](https://www.amazon.com/o/asin/0321200683/ref=nosim/enterpriseint-20); page 33
 
 Also, existing XML Web Services standards address only a fraction of the integration challenges. For example, the frequent claim that XML is the ‘Lingua franca” of system integration is somewhat misleading. Standardizing all data exchange to XML can be likened to writing all documents using a common alphabet, such as the Roman alphabet. Even though the alphabet is common, it is still being used to represent many languages and dialects, which cannot be readily understood by all readers. The same is true in enterprise integration. The existence of a common presentation (e.g. XML) does not imply common semantics. The notion of “account” can have many different semantics, connotations, constraints and assumptions in each participating system. Resolving semantic differences between systems proves to be a particularly difficult and time-consuming task because it involves significant business and technical decisions.
+
+#### [Alan Kay at MIT-EECS 1998 Fall Semester Colloquium Series](https://www.youtube.com/watch?v=BUud1gcbS9k&t=1h26m30s)  
+
+#### [A Conversation with CMU Faculty & Students](http://www.youtube.com/watch?v=PFc379hu--8&t=46m33s)
