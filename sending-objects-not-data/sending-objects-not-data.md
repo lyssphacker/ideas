@@ -182,5 +182,5 @@ My theory about security is very similar to locks, in that you can create greate
 
 #### [A Conversation with CMU Faculty & Students](http://www.youtube.com/watch?v=PFc379hu--8&t=46m33s)  
 
-#### [Richard Kelsey at [Dynamic Languages Panel (on runtime)](http://www.youtube.com/watch?v=SjbtEnfm7_Q&t=46m00s)
+#### [Richard Kelsey at Dynamic Languages Panel (on runtime)](http://www.youtube.com/watch?v=SjbtEnfm7_Q&t=46m00s)
 Timesharing ...
