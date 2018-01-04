@@ -183,4 +183,4 @@ My theory about security is very similar to locks, in that you can create greate
 #### [A Conversation with CMU Faculty & Students](http://www.youtube.com/watch?v=PFc379hu--8&t=46m33s)  
 
 #### [Richard Kelsey at Dynamic Languages Panel (on runtime)](http://www.youtube.com/watch?v=SjbtEnfm7_Q&t=46m00s)
-Timesharing ...
+Good idea that has come back is timesharing. It used to be that computers are big, expensive things and because of that you have to share them with other people. Whole a lot of work went into setting them up so that people can share them without stepping on each other too much and getting into too much trouble. Then computers got very cheap, everybody had their own and nobody paid attention to that anymore. On these computer, esentially put any program you want 
