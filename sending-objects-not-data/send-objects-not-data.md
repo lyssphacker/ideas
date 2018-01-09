@@ -195,3 +195,6 @@ To me, one of the nice things about the semantics of real objects is that they a
 The people who liked objects as non-data were smaller in number, and included myself, Carl Hewitt, Dave Reed and a few others – pretty much all of this group were from the ARPA community and were involved in one way or another with the design of ARPAnet->Internet in which the basic unit of computation was a whole computer. But just to show how stubbornly an idea can hang on, all through the seventies and eighties, there were many people who tried to get by with “Remote Procedure Call” instead of thinking about objects and messages. Sic transit gloria mundi.
 
 #### [Croquet System](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.101.164&rep=rep1&type=pdf)
+
+#### Questions
+1. Does Actor model (and specifically one in Akka) allow sending objects (processes/code), not just data?
