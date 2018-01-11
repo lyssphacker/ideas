@@ -34,4 +34,5 @@ What are differences between "real OOP" (as Alan Kay calls it) and conventional 
 
 #### Questions
 1. Does message-oriented middleware have anything to do with real object-oriented programming?
-2. Are Java interfaces equivalent to protocols in Smalltalk? (some [hints](https://en.wikipedia.org/wiki/Protocol_(object-oriented_programming)))
+2. Are Java interfaces equivalent to protocols in Smalltalk? (some [hints](https://en.wikipedia.org/wiki/Protocol_(object-oriented_programming)))  
+3. Is OOP presented in SICP real OOP?
