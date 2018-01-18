@@ -13,6 +13,7 @@ What are differences between "real OOP" (as Alan Kay calls it) and conventional 
 7. [Do you consider the micro services movement as a realization of the real object oriented language as envisioned by Alan Kay, where the services would be the objects and the API calls would be the messages?](https://www.quora.com/Do-you-consider-the-micro-services-movement-as-a-realization-of-the-real-object-oriented-language-as-envisioned-by-Alan-Kay-where-the-services-would-be-the-objects-and-the-API-calls-would-be-the-messages)
 8. [What did Alan Kay mean by, "I made up the term object-oriented, and I can tell you I did not have C++ in mind."?](https://www.quora.com/What-did-Alan-Kay-mean-by-I-made-up-the-term-object-oriented-and-I-can-tell-you-I-did-not-have-C++-in-mind)
 9. [Alan Kay at OOPSLA 1997 - The computer revolution hasnt happened yet](https://www.youtube.com/watch?v=oKg1hTOQXoY)
+10. [Object-Oriented Programming, lecture by Daniel Ingalls](https://www.youtube.com/watch?v=Ao9W93OxQ7U)
 
 
 #### Internet of objects  
