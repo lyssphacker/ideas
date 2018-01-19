@@ -196,7 +196,9 @@ The people who liked objects as non-data were smaller in number, and included my
 
 #### [Croquet System](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.101.164&rep=rep1&type=pdf)
 
-#### [Comments about browsers at Dynamic Languages Wizards Series - Panel on Language Design](http://www.youtube.com/watch?v=agw-wlHGi0E&t=1h54m00s)
+#### [Comments about browsers at Dynamic Languages Wizards Series - Panel on Language Design](http://www.youtube.com/watch?v=agw-wlHGi0E&t=1h54m00s)  
+Paul Graham: All I would ever dare assume is that you can show HTML pages and forms work, and even forms might not necessarily work. I certainly would not assume that JavaScript works. It seems like people who write software that depends on JavaScript are always 85% done.  
+Guy Steele: HTML is ubiquitous, and at least once a day I download some page that crashes my browswer, and switching to the other browser does not help always.  
 
 #### Questions
 1. Does Actor model (and specifically one in Akka) allow sending objects (processes/code), not just data?
