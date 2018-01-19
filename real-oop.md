@@ -15,6 +15,7 @@ What are differences between "real OOP" (as Alan Kay calls it) and conventional 
 9. [Alan Kay at OOPSLA 1997 - The computer revolution hasnt happened yet](https://www.youtube.com/watch?v=oKg1hTOQXoY)
 10. [Object-Oriented Programming, lecture by Daniel Ingalls](https://www.youtube.com/watch?v=Ao9W93OxQ7U): "Complex systems are hard to build with conventional programming languages. Object-oriented programming is an approach in which software organization corresponds closely to the system being simulated. When one supplants conventional procedure calls with the more general mechanism of sending messages, it greatly enhances the flexibility and reusability of software components."
 11. [Daniel G Bobrow: Common LISP Object Standard 1987](https://www.youtube.com/watch?v=1zS46_HWRMo)
+12. [Smalltalk-80: The Language and its Implementation[(http://stephane.ducasse.free.fr/FreeBooks/BlueBook/Bluebook.pdf)
 
 
 #### Internet of objects  
