@@ -196,5 +196,7 @@ The people who liked objects as non-data were smaller in number, and included my
 
 #### [Croquet System](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.101.164&rep=rep1&type=pdf)
 
+#### [Comments about browsers at Dynamic Languages Wizards Series - Panel on Language Design](http://www.youtube.com/watch?v=agw-wlHGi0E&t=1h54m00s): 
+
 #### Questions
 1. Does Actor model (and specifically one in Akka) allow sending objects (processes/code), not just data?
