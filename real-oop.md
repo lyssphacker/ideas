@@ -34,7 +34,9 @@ What are differences between "real OOP" (as Alan Kay calls it) and conventional 
 3. [The Art of the Metaobject Protocol](https://www.amazon.com/Art-Metaobject-Protocol-Gregor-Kiczales/dp/0262610744/ref=sr_1_1?s=books&ie=UTF8&qid=1511408030&sr=1-1&keywords=metaobject+protocol)
 4. [Seminar on Object Oriented Programming](https://www.youtube.com/watch?v=QjJaFG63Hlo)
 5. [Design Principles Behind Smalltalk](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
-
+6. Protocols (interfaces) are collections of functions.
+CLOS: protocol, generic function, method
+Smalltalk: protocol, "message handler", method
 
 #### Questions
 1. Does message-oriented middleware have anything to do with real object-oriented programming?
