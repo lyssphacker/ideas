@@ -45,3 +45,4 @@ Smalltalk: protocol, "message handler", method
 2. Are Java interfaces equivalent to protocols in Smalltalk? (some [hints](https://en.wikipedia.org/wiki/Protocol_(object-oriented_programming)))  
 3. Is OOP presented in [SICP](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-19.html#%_chap_3) real OOP?  
 4. Does Java EE and other kinds of frameworks make Java into a real OOP language? Are they created to fix Java?
+5. What is the importance of blocks in Smalltalk? Are blocks making a difference between real and normal OOP? 
