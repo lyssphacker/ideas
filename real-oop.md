@@ -40,6 +40,7 @@ What are differences between "real OOP" (as Alan Kay calls it) and conventional 
 6. Protocols (interfaces) are collections of functions.  
 CLOS: protocol, generic function, method  
 Smalltalk: protocol, "message handler", method  
+7. [Clojure Protocols](https://clojure.org/reference/protocols)
 
 #### Questions
 1. Does message-oriented middleware have anything to do with real object-oriented programming?
