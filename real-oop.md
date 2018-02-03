@@ -43,7 +43,7 @@ Smalltalk: protocol, "message handler", method
 7. [Clojure Protocols](https://clojure.org/reference/protocols)
 
 #### Actors
-[Akka Actors](https://doc.akka.io/docs/akka/2.4/scala/actors.html)
+[Akka Actors](https://doc.akka.io/docs/akka/current/actors.html)
 
 #### Questions
 1. Does message-oriented middleware have anything to do with real object-oriented programming?
