@@ -42,6 +42,9 @@ CLOS: protocol, generic function, method
 Smalltalk: protocol, "message handler", method  
 7. [Clojure Protocols](https://clojure.org/reference/protocols)
 
+#### Actors
+[Akka Actors](https://doc.akka.io/docs/akka/2.4/scala/actors.html)
+
 #### Questions
 1. Does message-oriented middleware have anything to do with real object-oriented programming?
 2. Are Java interfaces equivalent to protocols in Smalltalk? (some [hints](https://en.wikipedia.org/wiki/Protocol_(object-oriented_programming)))  
