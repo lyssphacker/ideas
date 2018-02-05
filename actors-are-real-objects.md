@@ -13,3 +13,6 @@ Unfortunately, then, Alan Kay made what he would later call one of the biggest m
 
 From then on, Actors and Objects went their separate ways … 
 
+[Alan Kay](https://computinged.wordpress.com/2010/09/11/moti-asks-objects-never-well-hardly-ever/):  
+We didn’t even do all of the idea at PARC. Many of Carl Hewitt’s Actors ideas which got sparked by the original Smalltalk were more in the spirit of OOP than the subsequent Smalltalks. Significant parts of Erlang are more like a real OOP language the the current Smalltalk, and certainly the C based languages that have been painted with “OOP paint”.
+
