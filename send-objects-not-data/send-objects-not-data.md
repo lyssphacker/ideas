@@ -200,7 +200,7 @@ The people who liked objects as non-data were smaller in number, and included my
 Paul Graham: All I would ever dare assume is that you can show HTML pages and forms work, and even forms might not necessarily work. I certainly would not assume that JavaScript works. It seems like people who write software that depends on JavaScript are always 85% done.  
 Guy Steele: HTML is ubiquitous, and at least once a day I download some page that crashes my browswer, and switching to the other browser does not help always.  
 
-[Why is object-oriented programming more about messaging than objects?](https://www.quora.com/Why-is-object-oriented-programming-more-about-messaging-than-objects/answer/Alan-Kay-11)  
+#### [Why is object-oriented programming more about messaging than objects?](https://www.quora.com/Why-is-object-oriented-programming-more-about-messaging-than-objects/answer/Alan-Kay-11)  
 **Me**: Messaging in many current systems is done by sending and receiving HTTP messages, and what is sent and received is data. For example, one part of the systems is sending transactionId to another part of the system, but nothing which might help the receiving part understand what is sent, so receiving part has to make a lot of assumptions about what it receives. The idea “sending objects, not data” that I heard from you seems to be much more powerful and scalable. Also, I’ve heard about the idea of phantom objects which was used in the 80s.
 
 Sending data creates tightly coupled systems - they might be distributed but they are still tightly coupled. I am not aware enough of the history of messaging systems in order to understand why no system is sending objects. Do you know why it that so? Why is best practice based on the weaker idea - sending data?
