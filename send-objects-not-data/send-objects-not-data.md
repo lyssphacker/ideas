@@ -200,5 +200,34 @@ The people who liked objects as non-data were smaller in number, and included my
 Paul Graham: All I would ever dare assume is that you can show HTML pages and forms work, and even forms might not necessarily work. I certainly would not assume that JavaScript works. It seems like people who write software that depends on JavaScript are always 85% done.  
 Guy Steele: HTML is ubiquitous, and at least once a day I download some page that crashes my browswer, and switching to the other browser does not help always.  
 
+[Why is object-oriented programming more about messaging than objects?](https://www.quora.com/Why-is-object-oriented-programming-more-about-messaging-than-objects/answer/Alan-Kay-11)  
+**Me**: Messaging in many current systems is done by sending and receiving HTTP messages, and what is sent and received is data. For example, one part of the systems is sending transactionId to another part of the system, but nothing which might help the receiving part understand what is sent, so receiving part has to make a lot of assumptions about what it receives. The idea “sending objects, not data” that I heard from you seems to be much more powerful and scalable. Also, I’ve heard about the idea of phantom objects which was used in the 80s.
+
+Sending data creates tightly coupled systems - they might be distributed but they are still tightly coupled. I am not aware enough of the history of messaging systems in order to understand why no system is sending objects. Do you know why it that so? Why is best practice based on the weaker idea - sending data?
+
+It could be that security is the main problem here since there is no way to protect the receiving end from some troublesome object it receives. But I am not sure whether this is the main concern.  
+
+**Alan Kay**: My definition of “object” is “a real virtual computer” — this implies complete encapulation, and it also implies that the messaging disciplines be as benign as the Internet (not the web) where there is nothing about TCP/IP packet messaging that is imperative.
+
+It also implies that an object sent to another environment be forced to be encapsulated (this is what address spaces are all about). And there are ways to do the protection.
+
+It’s worth looking at “coordination languages” (like LINDA) for clues.
+
+By the way, most people have missed that sending active processes is done safely gazillions of times daily via live Postscript objects that are sent to printers. The idea (Parc again) was that sending an encapsulated program and state and running it in a protected address space would be a better trade-off than trying to define a file format (e.g. XML) for something with the degrees of freedom of a printed page. I.e. interpreters for universal languages are small and formats are very large.
+
+This also happens more and more in the web, as people have over the glacial period of 25 years now gradually realized that trying to have formats — like the ever expanding HTML features — is crazy compared to sending processes and running them safely. I don’t believe they understand this quite yet.
+
+If you take the Parc POV on this, the web browser should just have been an OS for running received objects safely and allowing their I/O to be managed at the user level. But the originators could not see this, and flunked CS 101.
+
+They are not at all helped by the poor architectures of the CPUs and the standard OSs, both of which should be offering myriad more protected address spaces in which to run “alien objects”.
+
+The idea of sending “ambassadors” (dynamic objects/agents) rather than “telegrams” (data) has not yet been understood in workaday computing.
+
+And note that http could have wound up being the basis of a universal Internet wide programming language if the designers could have seen the possibilities (e.g. by looking at messaging in Smalltalk). Instead it is extremely ad hoc and too messy to use for programming. However, someone could make a subset that does what I just suggested.  
+
+**Jonas Oberhauser**: I’ve thought about that too, but it seems really expensive to build HW that provides such a number of address spaces. Did you make any progress on that at Parc?
+
+The closest I had was software-checking — whenever HW is not sure whether a user should be allowed to access a resource, it would ask the operating system, then remember the OS’s answer for a while. This is slower than 100% HW solutions, but at least it can physically scale beyond a few users. It’s not clear it can also scale in terms of performance.  
+
 #### Questions
 1. Does Actor model (and specifically one in Akka) allow sending objects (processes/code), not just data?
