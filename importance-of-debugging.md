@@ -14,3 +14,6 @@ Is this related to debugging as well?
 
 [New Architectural Models for Visibly Controllable Computing: The Relevance of Dynamic Object Oriented Architecturesand Plan Based Computing Models](https://dspace.mit.edu/handle/1721.1/30447?show=full)  
 
+[Steps toward better debugging tools for LISP](https://dl.acm.org/citation.cfm?doid=800055.802041)
+
+
