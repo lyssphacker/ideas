@@ -14,6 +14,9 @@ Is this related to debugging as well?
 
 [New Architectural Models for Visibly Controllable Computing: The Relevance of Dynamic Object Oriented Architecturesand Plan Based Computing Models](https://dspace.mit.edu/handle/1721.1/30447?show=full)  
 
-[Steps toward better debugging tools for LISP](https://dl.acm.org/citation.cfm?doid=800055.802041)
+[Steps toward better debugging tools for LISP](https://dl.acm.org/citation.cfm?doid=800055.802041)  
+
+[Dynamic Language Wizards - runtime](http://www.youtube.com/watch?v=SjbtEnfm7_Q&t=1h26m51s)  
+Audience: Source-level debugging is important in designing a language
 
 
