@@ -21,4 +21,4 @@ Audience: Source-level debugging is important in designing a language. How do yo
 Dave Moon: I got to be smart in your source-level debugger. It has to be able to backtrack all the way from the machine-code bits to the original source code and everything in between. That is not always easy. We never solved that on the Lisp Machine.  
 Scott McKay: We came close in Harlequin Dylan, but rule-based macros stuff makes it easier than Lisp-style macros. Good research project. 
 
-
+[If Tony Hoare said that “debugging is harder than programming and you shouldn’t use all of your cleverness to write the program” — or make anything — then what role does planning have in engineering and software design?](https://www.quora.com/If-Tony-Hoare-said-that-%E2%80%9Cdebugging-is-harder-than-programming-and-you-shouldn%E2%80%99t-use-all-of-your-cleverness-to-write-the-program%E2%80%9D-%E2%80%94-or-make-anything-%E2%80%94-then-what-role-does-planning-have-in-engineering-and-software-design)
