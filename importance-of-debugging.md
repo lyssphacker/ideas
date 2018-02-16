@@ -17,6 +17,8 @@ Is this related to debugging as well?
 [Steps toward better debugging tools for LISP](https://dl.acm.org/citation.cfm?doid=800055.802041)  
 
 [Dynamic Language Wizards - runtime](http://www.youtube.com/watch?v=SjbtEnfm7_Q&t=1h26m51s)  
-Audience: Source-level debugging is important in designing a language
+Audience: Source-level debugging is important in designing a language. How do you resolve the tension between that feature and having code generators, like hygenic macros or source generation facilities?  
+Dave Moon: I got to be smart in your source-level debugger. It has to be able to backtrack all the way from the machine-code bits to the original source code and everything in between. That is not always easy. We never solved that on the Lisp Machine.  
+Scott McKay: We came close in Harlequin Dylan, but rule-based macros stuff makes it easier than Lisp-style macros. Good research project. 
 
 
