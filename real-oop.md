@@ -23,7 +23,8 @@ What are differences between "real OOP" (as Alan Kay calls it) and conventional 
 17. [Each object is just a little computer](https://news.ycombinator.com/item?id=8677350)  
 In a Smalltalk-style message passing system, each object has its own little parser. When you send it a message, the object will parse and interpret it however it wishes. Essentially, you send the object a sequence of tokens, it parses the tokens and generates some executable code that it then invokes. The basic idea is that the object is always in control of what it does. Methods are extremely late-bound because the code for the method may not even exist until the object first creates it in response to a received message. But, the big idea is that an object is just a little computer, and in a computer system, a computer is the smallest thing that you want to recapitulate.
 18. [Dr. Alan Kay on the Meaning of “Object-Oriented Programming”](http://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/doc_kay_oop_en)
-19. [First-Class Dynamic Functions](docs/first-class-fns.png)
+19. [First-Class Dynamic Functions](docs/first-class-fns.png)  
+20. [Dynamic Object Oriented Programming](https://franz.com/resources/educational_resources/white_papers/doop.lhtml)  
 
 #### Internet of objects  
 
