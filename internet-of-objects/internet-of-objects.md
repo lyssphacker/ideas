@@ -1,6 +1,6 @@
 ### Internet of objects
 
-#### [Send objects not data](send-objects-not-data/ 	send-objects-not-data.md)
+#### [Send objects not data](send-objects-not-data/send-objects-not-data.md)
 
 #### Alan Kay about Internet of Objects
 [How to Invent the Future](http://www.youtube.com/watch?v=1e8VZlPBx_0&t=23m55s)
