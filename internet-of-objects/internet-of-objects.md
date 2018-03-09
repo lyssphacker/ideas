@@ -94,3 +94,8 @@ Is internet of objects related to internet of things?
 ---
 
 #### [Real object-oriented programming](https://github.com/lyssphacker/ideas/blob/master/internet-of-objects/real-oop.md)
+
+---
+
+#### Books
+[SOA Patterns](https://www.manning.com/books/soa-patterns)
