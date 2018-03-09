@@ -1,4 +1,8 @@
-### [Internet of objects](http://www.youtube.com/watch?v=1e8VZlPBx_0&t=23m55s)
+### Internet of objects
+
+#### Alan Kay about Internet of Objects
+[Internet of objects](http://www.youtube.com/watch?v=1e8VZlPBx_0&t=23m55s)
+
 
 #### CORBA vs RMI vs Microservices
 [Reinventing the Wheel? CORBA vs. Web Services](http://wwwconference.org/proceedings/www2002/alternate/395/index.html)  
