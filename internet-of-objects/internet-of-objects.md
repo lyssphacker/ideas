@@ -59,3 +59,6 @@ We didn’t even do all of the idea at PARC. Many of Carl Hewitt’s Actors idea
 
 #### Internet of Things
 Is internet of objects related to internet of things?
+
+#### Quora questions
+[Did distributed object-oriented technologies like CORBA, DCOM and RMI deservedly fail? Did better alternatives exist but were not popular enough to survive?](https://www.quora.com/Did-distributed-object-oriented-technologies-like-CORBA-DCOM-and-RMI-deservedly-fail-Did-better-alternatives-exist-but-were-not-popular-enough-to-survive)
