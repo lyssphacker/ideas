@@ -62,3 +62,5 @@ Is internet of objects related to internet of things?
 
 #### Quora questions
 [Did distributed object-oriented technologies like CORBA, DCOM and RMI deservedly fail? Did better alternatives exist but were not popular enough to survive?](https://www.quora.com/Did-distributed-object-oriented-technologies-like-CORBA-DCOM-and-RMI-deservedly-fail-Did-better-alternatives-exist-but-were-not-popular-enough-to-survive)
+
+#### [Real object-oriented programming](https://github.com/lyssphacker/ideas/blob/master/internet-of-objects/real-oop.md)
