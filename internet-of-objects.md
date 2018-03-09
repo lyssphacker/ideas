@@ -47,3 +47,10 @@ How are microservices related to earlier technologies, starting with CORBA, Java
 [have we come full circle with microservices, back to very old school approaches?](https://softwareengineering.stackexchange.com/questions/275927/have-we-come-full-circle-with-microservices-back-to-very-old-school-approaches)  
 [Microservices? Please, Don't](https://news.ycombinator.com/item?id=13167188)  
 
+
+#### Actors
+[Akka Actors](https://doc.akka.io/docs/akka/current/actors.html)  
+[What is the difference between Alan Kay's definition of OOP and Carl Hewitt's Actor Model?](https://www.quora.com/What-is-the-difference-between-Alan-Kays-definition-of-OOP-and-Carl-Hewitts-Actor-Model)  
+[Alan Kay](https://www.quora.com/What-are-the-main-successes-of-the-AI-group-at-Xerox-PARC-during-the-70s-and-first-half-of-the-80s-How-much-influence-did-it-have-on-other-groups-like-Smalltalk-group-and-vice-versa/answer/Alan-Kay-11): "This was my initial plan for Smalltalk. Fate intervened with something else. But these ideas reflected back to Carl Hewitt in his later “Actor” ideas, which are more like the early Smalltalk ideas, and which went beyond in a number of ways."  
+[Alan Kay](https://computinged.wordpress.com/2010/09/11/moti-asks-objects-never-well-hardly-ever/):  
+We didn’t even do all of the idea at PARC. Many of Carl Hewitt’s Actors ideas which got sparked by the original Smalltalk were more in the spirit of OOP than the subsequent Smalltalks. Significant parts of Erlang are more like a real OOP language the the current Smalltalk, and certainly the C based languages that have been painted with “OOP paint”.
