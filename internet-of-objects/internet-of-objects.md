@@ -102,5 +102,11 @@ Is internet of objects related to internet of things?
 [SOA Patterns](https://www.manning.com/books/soa-patterns)
 
 ---
+#### Propagator model
+[Revised Report on the Propagator Model](https://groups.csail.mit.edu/mac/users/gjs/propagators/)  
 
-[Propagator Model](https://groups.csail.mit.edu/mac/users/gjs/propagators/)
+##### Talks
+[Constraints and Hallucinations: Filling in the Details](https://github.com/lyssphacker/talks/blob/master/constraints-and-halucinations-filling-in-the-details/constraints-and-halucinations-filling-in-the-details.md)  
+[Flexible Systems: The Power of Generic Operations](https://github.com/lyssphacker/talks/blob/master/flexible-systems-power-of-generic-operations/flexible-systems-power-of-generic-operations.md#flexible-systems-the-power-of-generic-operations)  
+[We Really Don't Know How to Compute!](https://github.com/lyssphacker/talks/blob/master/we-really-do-not-know-how-to-compute/we-really-do-not-know-how-to-compute.md)
+
