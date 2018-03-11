@@ -112,4 +112,5 @@ Is internet of objects related to internet of things?
 Service Design Patterns  
 Enterprise Integration Patterns  
 Pattern-Oriented Software Architecture, Patterns for Concurrent and Networked Objects, Volume 2  
-Design Patterns: Elements of Reusable Object-Oriented Software
+Design Patterns: Elements of Reusable Object-Oriented Software  
+Pattern-Oriented Software Architecture Volume 4: A Pattern Language for Distributed Computing 
