@@ -108,7 +108,7 @@ Is internet of objects related to internet of things?
 
 ---
 #### Design patterns
-[SOA Patterns](https://www.manning.com/books/soa-patterns)
+[SOA Patterns](https://www.manning.com/books/soa-patterns)  
 Service Design Patterns  
 Enterprise Integration Patterns  
 Pattern-Oriented Software Architecture, Patterns for Concurrent and Networked Objects, Volume 2  
