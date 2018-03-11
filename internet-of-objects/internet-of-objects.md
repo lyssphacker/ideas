@@ -98,10 +98,6 @@ Is internet of objects related to internet of things?
 
 ---
 
-#### Books
-[SOA Patterns](https://www.manning.com/books/soa-patterns)
-
----
 #### Propagator model
 [Revised Report on the Propagator Model](https://groups.csail.mit.edu/mac/users/gjs/propagators/)  
 
@@ -111,5 +107,9 @@ Is internet of objects related to internet of things?
 [We Really Don't Know How to Compute!](https://github.com/lyssphacker/talks/blob/master/we-really-do-not-know-how-to-compute/we-really-do-not-know-how-to-compute.md)
 
 ---
-#### Design patterns?
-POSA, etc.
+#### Design patterns
+[SOA Patterns](https://www.manning.com/books/soa-patterns)
+Service Design Patterns  
+Enterprise Integration Patterns  
+Pattern-Oriented Software Architecture, Patterns for Concurrent and Networked Objects, Volume 2  
+Design Patterns: Elements of Reusable Object-Oriented Software
