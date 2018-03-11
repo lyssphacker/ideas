@@ -99,3 +99,7 @@ Is internet of objects related to internet of things?
 
 #### Books
 [SOA Patterns](https://www.manning.com/books/soa-patterns)
+
+---
+
+[Propagator Model](https://groups.csail.mit.edu/mac/users/gjs/propagators/)
