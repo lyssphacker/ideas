@@ -110,3 +110,6 @@ Is internet of objects related to internet of things?
 [Flexible Systems: The Power of Generic Operations](https://github.com/lyssphacker/talks/blob/master/flexible-systems-power-of-generic-operations/flexible-systems-power-of-generic-operations.md#flexible-systems-the-power-of-generic-operations)  
 [We Really Don't Know How to Compute!](https://github.com/lyssphacker/talks/blob/master/we-really-do-not-know-how-to-compute/we-really-do-not-know-how-to-compute.md)
 
+---
+#### Design patterns?
+POSA, etc.
