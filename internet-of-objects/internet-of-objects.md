@@ -90,6 +90,7 @@ Is internet of objects related to internet of things?
 [For somebody experienced in SOA, is there anything interesting or new in microservices architecture? Is hype surrounding microservices legitimate?](https://www.quora.com/unanswered/For-somebody-experienced-in-SOA-is-there-anything-interesting-or-new-in-microservices-architecture-Is-hype-surrounding-microservices-legitimate)  
 [Should one understand CORBA, RPC, web services, SOA and other predecessors of microservices architecture, in order to understand microservices architecture itself?](https://www.quora.com/Should-one-understand-CORBA-RPC-web-services-SOA-and-other-predecessors-of-microservices-architecture-in-order-to-understand-microservices-architecture-itself)  
 [Have integration technologies and architectures regressed over the years, going from CORBA, RPC, SOAP/WSDL and finishing with REST?](https://www.quora.com/unanswered/Have-integration-technologies-and-architectures-regressed-over-the-years-going-from-CORBA-RPC-SOAP-WSDL-and-finishing-with-REST)
+[Can metaobject protocols help in making systems written in different object systems interoperate better on the Internet?](https://www.quora.com/unanswered/Can-metaobject-protocols-help-in-making-systems-written-in-different-object-systems-interoperate-better-on-the-Internet)
 
 ---
 
