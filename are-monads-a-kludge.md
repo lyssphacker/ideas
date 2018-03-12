@@ -1,0 +1,3 @@
+[Brian Beckman: Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8)  
+[Joe Armstrong & Alan Kay - Joe Armstrong interviews Alan Kay](https://www.youtube.com/watch?v=fhOHn9TClXY)  
+Alan Kay: Monads are too much of a kludge ...
