@@ -122,4 +122,5 @@ The Art of Metaobject Protocol
 
 ---
 #### Functional programming and distributed systems
-[Are functional programming techniques influencing or have they been influencing techniques used to build distributed systems?](https://www.quora.com/Are-functional-programming-techniques-influencing-or-have-they-been-influencing-techniques-used-to-build-distributed-systems)
+[Are functional programming techniques influencing or have they been influencing techniques used to build distributed systems?](https://www.quora.com/Are-functional-programming-techniques-influencing-or-have-they-been-influencing-techniques-used-to-build-distributed-systems)  
+[Is Erlang really a functional language?](https://stackoverflow.com/questions/2271417/is-erlang-really-a-functional-language)
