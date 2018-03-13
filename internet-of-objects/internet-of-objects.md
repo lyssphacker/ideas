@@ -119,7 +119,8 @@ Pattern-Oriented Software Architecture Volume 4: A Pattern Language for Distribu
 ---
 #### Metaobject protocols
 [Why Black Boxes are so Hard to Reuse: A New Approach to Abstraction for the Engineering of Software](https://github.com/lyssphacker/talks/blob/master/why-black-boxes-are-so-hard-to-reuse/why-black-boxes-are-so-hard-to-reuse.md)  
-The Art of Metaobject Protocol
+The Art of Metaobject Protocol  
+[Alan Kay at OOPSLA](https://www.youtube.com/watch?v=oKg1hTOQXoY&amp;t=53m10s)  
 
 ---
 #### Functional programming and distributed systems
