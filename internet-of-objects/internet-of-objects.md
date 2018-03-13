@@ -125,3 +125,6 @@ The Art of Metaobject Protocol
 [Are functional programming techniques influencing or have they been influencing techniques used to build distributed systems?](https://www.quora.com/Are-functional-programming-techniques-influencing-or-have-they-been-influencing-techniques-used-to-build-distributed-systems)  
 [Is Erlang really a functional language?](https://stackoverflow.com/questions/2271417/is-erlang-really-a-functional-language)  
 [Can one build distributed system using only functional programming techniques? If not, does this makes functional programming much less useful then object-oriented programming whose idea of message passing scales better?](https://www.quora.com/Can-one-build-distributed-system-using-only-functional-programming-techniques-If-not-does-this-makes-functional-programming-much-less-useful-then-object-oriented-programming-whose-idea-of-message-passing-scales?__filter__&__nsrc__=2&__snid3__=2106094277)
+
+---
+#### Erlang
