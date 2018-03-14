@@ -131,3 +131,7 @@ The Art of Metaobject Protocol
 
 ---
 #### Erlang
+
+---
+#### Cloud computing
+[Cloud Computing and the Internet](https://research.googleblog.com/2009/04/cloud-computing-and-internet.html)
