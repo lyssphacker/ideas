@@ -101,6 +101,7 @@ Is internet of objects related to internet of things?
 
 #### Propagator model
 [Revised Report on the Propagator Model](https://groups.csail.mit.edu/mac/users/gjs/propagators/)  
+[Propagators in Clojure](https://www.youtube.com/watch?v=JXOOO9MLvhs)
 
 ##### Talks
 [Constraints and Hallucinations: Filling in the Details](https://github.com/lyssphacker/talks/blob/master/constraints-and-halucinations-filling-in-the-details/constraints-and-halucinations-filling-in-the-details.md)  
