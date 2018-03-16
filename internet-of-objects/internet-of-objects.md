@@ -142,3 +142,6 @@ The Art of Metaobject Protocol
 #### Reactive Systems
 [From Microliths To Microsystems](https://www.youtube.com/watch?v=xMWg5KNACsA)  
 [Reactive Microsystems - The Evolution of Microservices at Scale](https://www.youtube.com/watch?v=3hMtjPcU248)
+
+---
+#### Publish-subscribe messaging
