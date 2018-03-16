@@ -8,6 +8,7 @@
 #### Alan Kay about Internet of Objects
 [How to Invent the Future](http://www.youtube.com/watch?v=1e8VZlPBx_0&t=23m55s)  
 [Everything is kind of like the Internet](http://www.youtube.com/watch?v=tp9VbtLn2Jw&t=27m20s)  
+[Meaning dominates connections](https://www.youtube.com/watch?v=tp9VbtLn2Jw&t=46m21s)  
 
 ---
 
