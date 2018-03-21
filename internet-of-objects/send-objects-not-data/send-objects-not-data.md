@@ -231,3 +231,5 @@ The closest I had was software-checking — whenever HW is not sure whether a us
 
 #### Questions
 1. Does Actor model (and specifically one in Akka) allow sending objects (processes/code), not just data?
+---
+#### [Instead of sending shitty text files to rendering engines to parse all their own way, we should send objects](https://news.ycombinator.com/item?id=16526297)
