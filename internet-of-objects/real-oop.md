@@ -25,6 +25,7 @@ In a Smalltalk-style message passing system, each object has its own little pars
 18. [Dr. Alan Kay on the Meaning of “Object-Oriented Programming”](http://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/doc_kay_oop_en)
 19. [First-Class Dynamic Functions](docs/first-class-fns.png)  
 20. [Dynamic Object Oriented Programming](https://franz.com/resources/educational_resources/white_papers/doop.lhtml)  
+21. [Why is functional programming seen as the opposite of OOP rather than an addition to it?](https://www.quora.com/Why-is-functional-programming-seen-as-the-opposite-of-OOP-rather-than-an-addition-to-it)
 
 #### Protocol-oriented programming
 
