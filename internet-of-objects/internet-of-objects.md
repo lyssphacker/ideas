@@ -146,3 +146,5 @@ The Art of Metaobject Protocol
 
 ---
 #### Publish-subscribe messaging
+
+#### [Everything You Know (About Parallel Programming) Is Wrong!: A Wild Screed About the Future ](https://www.youtube.com/watch?v=M-fX01R1Ky8)
