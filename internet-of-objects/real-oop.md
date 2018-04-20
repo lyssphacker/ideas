@@ -26,7 +26,8 @@ In a Smalltalk-style message passing system, each object has its own little pars
 19. [First-Class Dynamic Functions](docs/first-class-fns.png)  
 20. [Dynamic Object Oriented Programming](https://franz.com/resources/educational_resources/white_papers/doop.lhtml)  
 21. [Why is functional programming seen as the opposite of OOP rather than an addition to it?](https://www.quora.com/Why-is-functional-programming-seen-as-the-opposite-of-OOP-rather-than-an-addition-to-it)  
-22. [What is this "live objects" in Smalltalk? I've gotten used to that "edit-compile-test-debug" cycle, and want to understand the philosophy behind](https://www.quora.com/What-is-this-live-objects-in-Smalltalk-Ive-gotten-used-to-that-edit-compile-test-debug-cycle-and-want-to-understand-the-philosophy-behind-Smalltalk-Pharo)
+22. [What is this "live objects" in Smalltalk? I've gotten used to that "edit-compile-test-debug" cycle, and want to understand the philosophy behind](https://www.quora.com/What-is-this-live-objects-in-Smalltalk-Ive-gotten-used-to-that-edit-compile-test-debug-cycle-and-want-to-understand-the-philosophy-behind-Smalltalk-Pharo)  
+23. [Can someone link me to the original white paper discussing what was eventually coined OOP? I believe it was by Alan Kay, but I'm not able to find it simply in a Google search. I'm finding it referenced, but not linked to, and I don't recall the name.](https://www.quora.com/Can-someone-link-me-to-the-original-white-paper-discussing-what-was-eventually-coined-OOP-I-believe-it-was-by-Alan-Kay-but-Im-not-able-to-find-it-simply-in-a-Google-search-Im-finding-it-referenced-but-not-linked-to).
 
 #### Protocol-oriented programming
 
