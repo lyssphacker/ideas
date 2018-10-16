@@ -6,9 +6,11 @@ What enabled the concise implementation of Genera?
 
 Were Genera designers able to virtualize the underlying machine into something very different? it is clear that Genera conceptually looks quite a bit different than a Unix machines back then (what about now?).  
 
-![Lisp Machine](http://lispm.de/images/figure4.gif) 
+![](http://lispm.de/images/figure4.gif)
+*Lisp Machine*
 
-![Unix Machine](http://lispm.de/images/figure3.gif)
+![](http://lispm.de/images/figure3.gif)
+*Unix Machine*
 
 Howard Shrobe and Robert Laddaga wrote a [paper](https://dspace.mit.edu/handle/1721.1/30447) trying to explain what made Genera different - small (in terms of LOC) but powerful.  
 
