@@ -1,1 +1,1 @@
-
+[Alan Kay](http://www.youtube.com/watch?v=tp9VbtLn2Jw&t=32m40s): "You can almost always make something that scales very very well by completely virtualizing the computer you have into some new kind of computer that's kind of."
