@@ -1,2 +1,2 @@
 #### Questions
-1. Will using OODBMSes remove object-relational impedance mismatch?
+1. Can using OODBMSes remove object-relational impedance mismatch?
