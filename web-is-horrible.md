@@ -17,3 +17,5 @@ So here's a couple of knocks on the head I had over the years. I just want to te
 
 #### [Web programming should be much simpler](https://www.youtube.com/watch?v=gGw09RZjQf8)
 
+#### [WWW - reinventing the flat tire](http://www.youtube.com/watch?v=9nd9DwCdQR0&t=17m51s)
+
