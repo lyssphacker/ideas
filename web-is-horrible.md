@@ -15,3 +15,5 @@ So here's a couple of knocks on the head I had over the years. I just want to te
 
 #### [How could the web have been developed following Alan Kay's vision of a browser being a mini-operating system and not just an application?](https://www.quora.com/How-could-the-web-have-been-developed-following-Alan-Kays-vision-of-a-browser-being-a-mini-operating-system-and-not-just-an-application)
 
+#### [Web programming should be much simpler](https://www.youtube.com/watch?v=gGw09RZjQf8)
+
