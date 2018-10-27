@@ -19,3 +19,7 @@ So here's a couple of knocks on the head I had over the years. I just want to te
 
 #### [WWW - reinventing the flat tire](http://www.youtube.com/watch?v=9nd9DwCdQR0&t=17m51s)
 
+#### [The present does not compute](http://www.youtube.com/watch?v=tp9VbtLn2Jw&t=13m22s)
+
+#### [Everything is kind of like the Internet](https://www.youtube.com/watch?v=tp9VbtLn2Jw&t=29m10s)
+
