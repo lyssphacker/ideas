@@ -19,4 +19,4 @@ The other thing that seems really important to me is that we spend all our time 
 
 #### [Is “Software Engineering” an Oxymoron?](https://pdfs.semanticscholar.org/6c8d/f2c143c93290bcaa8338992a14aa7ac3369a.pdf)
 
-![images/late-binding.png]
+![late binding](images/late-binding.png)
