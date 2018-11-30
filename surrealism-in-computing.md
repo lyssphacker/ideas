@@ -2,7 +2,7 @@ In computing often it is not clear whether something is a joke or a serious thin
 
 Manifestations of that kind:  
 1. Jenkins
-2. Object-relation mapping
+2. Object-relational mapping
 3. Web
 4. Decades old CPU architectures
 5. Languages without syntactic abstraction 
