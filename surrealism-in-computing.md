@@ -1,12 +1,12 @@
 In computing often it is not clear whether something is a joke or a serious thing, artistic expression which reminds of a surrealism, or something done in full seriousness.  
 
 Manifestations of that kind:  
-1. Jenkins
-2. Object-relational mapping
-3. Web
-4. Decades old CPU architectures
-5. Languages without syntactic abstraction 
-6. UNIX-like OSes
+1. Jenkins - tweaking complex pipelines via **Web** UI is cool
+2. Object-relational mapping - updating data in place is cool (live in the present, how cares about the past ... or the future)
+3. Web - sending text files around is cool (interpretation is up to you)
+4. Decades old CPU architectures - our sw is slow because we have a lot of features
+5. Languages without syntactic abstraction - we need a little bit of tyranny in this golden age of abstraction
+6. UNIX-like OSes - everything is a byte stream -> COOL, I just like to search around for that config file -> COOL
 
 More realistic alternatives:
 1. lambdacd
