@@ -7,3 +7,11 @@ Manifestations of that kind:
 4. Decades old CPU architectures
 5. Languages without syntactic abstraction 
 6. UNIX-like OSes
+
+More realistic alternatives:
+1. lambdacd
+2. Datomic, object-oriented dbs (Statice)
+3. Hypercard on the Internet
+4. Software dictates HW, not the other way around
+5. Let's not be syntax freaks. Code is data, simplify syntax.
+6. Object-oriented OSes (Genera)
