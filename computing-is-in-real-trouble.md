@@ -21,3 +21,5 @@ effectively build flexible, robust, evolvable, and efficient systems.
 
 #### Gerry Sussman, [We Really Don't Know How to Compute!](https://github.com/lyssphacker/talks/blob/master/we-really-do-not-know-how-to-compute/we-really-do-not-know-how-to-compute.md)  
 We are in a real trouble and have not the foggiest idea how to compute very well. There might be some glimmer of hope on the horizon, in number of different directions, some of which I might point out.
+
+#### Alan Kay, [The Present Does Not Compute](https://www.youtube.com/watch?v=tp9VbtLn2Jw&t=16m1s)
