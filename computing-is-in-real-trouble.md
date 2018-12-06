@@ -1,4 +1,4 @@
-### Collection of quotes which suggest that computing is generally in a real trouble
+### Computing is in a real trouble
 
 #### Gerry Sussman, [Robust Design through Diversity](http://worrydream.com/refs/Sussman%20-%20Robust%20Design%20through%20Diversity.pdf)  
 Computer Science is in deep trouble. Structured design is a
