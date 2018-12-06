@@ -18,3 +18,6 @@ need a new set of engineering principles that can be applied to
 effectively build flexible, robust, evolvable, and efficient systems.
 
 #### [Surrealism in computing - sign of collapse?](surrealism-in-computing.md)
+
+#### Gerry Sussman, [We Really Don't Know How to Compute!](https://github.com/lyssphacker/talks/blob/master/we-really-do-not-know-how-to-compute/we-really-do-not-know-how-to-compute.md)  
+We are in a real trouble and have not the foggiest idea how to compute very well. There might be some glimmer of hope on the horizon, in number of different directions, some of which I might point out.
