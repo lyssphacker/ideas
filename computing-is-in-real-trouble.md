@@ -54,3 +54,6 @@ So I think the lack of a real computer science today, and the lack of real softw
 
 #### Alan Kay, [The Web - one of the worst things ever](http://www.youtube.com/watch?v=N9c7_8Gp7gI&t=28m30s)
 The Web - I will not go into my diatribe about the web, but the web browser is one of the worst things ever. It only does a few things compared to what it should be doing. This is hard to explain to people. It is hard to find people who are willing to criticize the web.
+
+#### Alan Kay, [GNU/Linux - budget of bad ideas](https://www.youtube.com/watch?v=rmsIZUuBoQs)
+... learning Linux. It has thousands and thousands of commands. You can spend your entire life just ticking around with Linux and never learn anything about computing. It has the illusion of being something important about computing, but in fact it is kind of a budget of bad ideas.
