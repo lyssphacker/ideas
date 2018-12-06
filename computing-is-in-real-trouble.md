@@ -64,3 +64,6 @@ The Web - I will not go into my diatribe about the web, but the web browser is o
 That by and large is what happened to personal computing since it came out commerically in early 80s. It basically became vast narcissistic mirror for the largest proportion of users, worse than almost any kind of thing we could have invented. We invented a new way for people to admire themselves and ignore almost anything of consequence.
 
 #### Marvin Minsky, [AI has been brain dead since the 1970s](https://www.wired.com/2003/08/why-a-i-is-brain-dead/)
+
+#### Alan Kay, [iPad UI is very poor in a myriad of ways](http://techland.time.com/2013/04/02/an-interview-with-computing-pioneer-alan-kay/)
+
