@@ -59,3 +59,6 @@ The Web - I will not go into my diatribe about the web, but the web browser is o
 ... learning Linux. It has thousands and thousands of commands. You can spend your entire life just ticking around with Linux and never learn anything about computing. It has the illusion of being something important about computing, but in fact it is kind of a budget of bad ideas.
 
 #### Alan Kay, [Computing is getting more and more mundane](https://www.youtube.com/watch?v=1e8VZlPBx_0&t=54m58s)
+
+#### Alan Kay, [Personal computing became a vast narcissistic mirror](https://www.youtube.com/watch?v=aHr4wAiXQD4&t=6m45s)
+That by and large is what happened to personal computing since it came out commerically in early 80s. It basically became vast narcissistic mirror for the largest proportion of users, worse than almost any kind of thing we could have invented. We invented a new way for people to admire themselves and ignore almost anything of consequence.
