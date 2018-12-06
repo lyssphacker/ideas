@@ -46,3 +46,11 @@ If software does “engineering” at all, it is too often at the same level as 
 ancient Egyptians before the invention of the arch (literally before the making of arches: architecture), who made
 large structures with hundreds of thousands of slaves toiling for decades to pile stone upon stone: they used weak
 ideas and weak tools, pretty much like most software development today.
+
+#### Alan Kay, [Computing is a pop culture](https://queue.acm.org/detail.cfm?id=1039523)
+You could think of it as putting a low-pass filter on some of the good ideas from the ’60s and ’70s, as computing spread out much, much faster than educating unsophisticated people can happen. In the last 25 years or so, we actually got something like a pop culture, similar to what happened when television came on the scene and some of its inventors thought it would be a way of getting Shakespeare to the masses. But they forgot that you have to be more sophisticated and have more perspective to understand Shakespeare. What television was able to do was to capture people as they were.
+
+So I think the lack of a real computer science today, and the lack of real software engineering today, is partly due to this pop culture.
+
+#### Alan Kay, [The Web - one of the worst things ever](http://www.youtube.com/watch?v=N9c7_8Gp7gI&t=28m30s)
+I really would like you to contrast that with what you have to do with HTML on the Internet. Think about it. HTML on the Internet has gone back to the dark ages because it presupposes that there should be a browser that should understand its formats. This has to be one of the worst ideas since MS-DOS.
