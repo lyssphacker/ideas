@@ -23,8 +23,7 @@ We are in a real trouble and have not the foggiest idea how to compute very well
 #### Alan Kay, [The Present Does Not Compute](https://www.youtube.com/watch?v=tp9VbtLn2Jw&t=16m1s)
 We are in the situation where the hardware capacity allows a lot of stuff that does not scale very well to barely survive, but survives at the expense of being able to improve it, make changes, understand it, etc.
 
-#### Gerry Sussman, [Computer science actively discourages the construction
-of robust systems](https://groups.csail.mit.edu/mac/users/gjs/6.945/readings/robust-systems.pdf)
+#### Gerry Sussman, [Computer science actively discourages the construction of robust systems](https://groups.csail.mit.edu/mac/users/gjs/6.945/readings/robust-systems.pdf)
 Observations of biological systems tell us a great deal about
 how to make robust and evolvable systems. Techniques originally
 developed in support of symbolic Artificial Intelligence can
@@ -37,7 +36,7 @@ of robust systems.
 Code is not organized nearly as nicely as a book. It looks more like garbage dump. It is he kind of thing that would be condemned if anybody could ever look at it, but if you look at garbage dump through a window about this big, it only looks slightly messy. If you could look at the entire garbage dump I think we would be horrified. It is not really a dump, because people have to live with this. So perhaps, this is a city after a great disaster where people are still forced to live.
 
 #### Alan Kay, [Software has fallen short](https://www.youtube.com/watch?v=tp9VbtLn2Jw)
-(paraphrasing) If the computing does not reach higher qualitative bar in the next 10 years ... if will just be gone, and what we'll have is enormous ad-hoc mechanisms, in one of the longest, slowest crashes in history.
+(paraphrasing) If the computing does not reach higher qualitative bar in the next 10 years ... it will just be gone, and what we'll have is enormous ad-hoc mechanisms, in one of the longest, slowest crashes in history.
 
 #### Alan Kay, [Software is slum-like](https://www.youtube.com/watch?v=QboI_1WJUlM&t=17m44s)
 Picture that fits our code is a slum, particularly the web, but basically it is all rather slum-like. There is no large sense of architecture of any kind, things are tacked in there, urban renewal bulldozes some stuff out, but just leaves the stuff lying around.
