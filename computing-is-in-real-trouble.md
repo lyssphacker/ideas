@@ -40,3 +40,5 @@ Code is not organized nearly as nicely as a book. It looks more like garbage dum
 
 #### Alan Kay, [Software is slum-like](https://www.youtube.com/watch?v=QboI_1WJUlM&t=17m44s)
 Picture that fits our code is a slum, particularly the web, but basically it is all rather slum-like. There is no large sense of architecture of any kind, things are tacked in there, urban renewal bulldozes some stuff out, but just leaves some stuff lying around.
+
+#### Alan Kay, [Is “Software Engineering” an Oxymoron?](https://pdfs.semanticscholar.org/6c8d/f2c143c93290bcaa8338992a14aa7ac3369a.pdf)
