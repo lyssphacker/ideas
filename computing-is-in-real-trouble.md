@@ -39,4 +39,4 @@ Code is not organized nearly as nicely as a book. It looks more like garbage dum
 (paraphrasing) If the computing does not reach higher qualitative bar in the next 10 years ... it will just be gone, and what we'll have is enormous ad-hoc mechanisms, in one of the longest, slowest crashes in history.
 
 #### Alan Kay, [Software is slum-like](https://www.youtube.com/watch?v=QboI_1WJUlM&t=17m44s)
-Picture that fits our code is a slum, particularly the web, but basically it is all rather slum-like. There is no large sense of architecture of any kind, things are tacked in there, urban renewal bulldozes some stuff out, but just leaves the stuff lying around.
+Picture that fits our code is a slum, particularly the web, but basically it is all rather slum-like. There is no large sense of architecture of any kind, things are tacked in there, urban renewal bulldozes some stuff out, but just leaves some stuff lying around.
