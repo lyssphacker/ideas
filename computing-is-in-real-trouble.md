@@ -53,4 +53,4 @@ You could think of it as putting a low-pass filter on some of the good ideas fro
 So I think the lack of a real computer science today, and the lack of real software engineering today, is partly due to this pop culture.
 
 #### Alan Kay, [The Web - one of the worst things ever](http://www.youtube.com/watch?v=N9c7_8Gp7gI&t=28m30s)
-I really would like you to contrast that with what you have to do with HTML on the Internet. Think about it. HTML on the Internet has gone back to the dark ages because it presupposes that there should be a browser that should understand its formats. This has to be one of the worst ideas since MS-DOS.
+The Web - I will not go into my diatribe about the web, but the web browser is one of the worst things ever. It only does a few things compared to what it should be doing. This is hard to explain to people. It is hard to find people who are willing to criticize the web.
