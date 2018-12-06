@@ -42,3 +42,7 @@ Code is not organized nearly as nicely as a book. It looks more like garbage dum
 Picture that fits our code is a slum, particularly the web, but basically it is all rather slum-like. There is no large sense of architecture of any kind, things are tacked in there, urban renewal bulldozes some stuff out, but just leaves some stuff lying around.
 
 #### Alan Kay, [Is “Software Engineering” an Oxymoron?](https://pdfs.semanticscholar.org/6c8d/f2c143c93290bcaa8338992a14aa7ac3369a.pdf)
+If software does “engineering” at all, it is too often at the same level as the
+ancient Egyptians before the invention of the arch (literally before the making of arches: architecture), who made
+large structures with hundreds of thousands of slaves toiling for decades to pile stone upon stone: they used weak
+ideas and weak tools, pretty much like most software development today.
