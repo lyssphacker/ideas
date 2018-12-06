@@ -17,9 +17,21 @@ will not be solved by some form of modularity. We need new ideas. We
 need a new set of engineering principles that can be applied to
 effectively build flexible, robust, evolvable, and efficient systems.
 
-#### [Surrealism in computing - sign of collapse?](surrealism-in-computing.md)
-
 #### Gerry Sussman, [We Really Don't Know How to Compute!](https://github.com/lyssphacker/talks/blob/master/we-really-do-not-know-how-to-compute/we-really-do-not-know-how-to-compute.md)  
 We are in a real trouble and have not the foggiest idea how to compute very well. There might be some glimmer of hope on the horizon, in number of different directions, some of which I might point out.
 
 #### Alan Kay, [The Present Does Not Compute](https://www.youtube.com/watch?v=tp9VbtLn2Jw&t=16m1s)
+We are in the situation where the hardware capacity allows a lot of stuff that does not scale very well to barely survive, but survives at the expense of being able to improve it, make changes, understand it, etc.
+
+#### Gerry Sussman, [Computer science actively discourages the construction
+of robust systems](https://groups.csail.mit.edu/mac/users/gjs/6.945/readings/robust-systems.pdf)
+Observations of biological systems tell us a great deal about
+how to make robust and evolvable systems. Techniques originally
+developed in support of symbolic Artificial Intelligence can
+be viewed as ways of enhancing robustness and evolvability in
+programs and other engineered systems. By contrast, common
+practice of computer science actively discourages the construction
+of robust systems.
+
+#### Alan Kay, [Most code looks like a garbage dump](https://www.youtube.com/watch?v=tp9VbtLn2Jw&t=7m40s)
+Code is not organized nearly as nicely as a book. It looks more like garbage dump. It is he kind of thing that would be condemned if anybody could ever look at it, but if you look at garbage dump through a window about this big, it only looks slightly messy. If you could look at the entire garbage dump I think we would be horrified. It is not really a dump, because people have to live with this. So perhaps, this is a city after a great disaster where people are still forced to live.
