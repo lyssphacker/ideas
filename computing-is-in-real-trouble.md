@@ -57,3 +57,5 @@ The Web - I will not go into my diatribe about the web, but the web browser is o
 
 #### Alan Kay, [GNU/Linux - budget of bad ideas](https://www.youtube.com/watch?v=rmsIZUuBoQs)
 ... learning Linux. It has thousands and thousands of commands. You can spend your entire life just ticking around with Linux and never learn anything about computing. It has the illusion of being something important about computing, but in fact it is kind of a budget of bad ideas.
+
+#### Alan Kay, [Computing is getting more and more mundane](https://www.youtube.com/watch?v=1e8VZlPBx_0&t=54m58s)
