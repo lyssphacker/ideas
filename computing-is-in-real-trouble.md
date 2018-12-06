@@ -16,3 +16,5 @@ This problem is structural. This is not a complexity problem. It
 will not be solved by some form of modularity. We need new ideas. We
 need a new set of engineering principles that can be applied to
 effectively build flexible, robust, evolvable, and efficient systems.
+
+#### [Surrealism in computing - sign of collapse?](surrealism-in-computing.md)
