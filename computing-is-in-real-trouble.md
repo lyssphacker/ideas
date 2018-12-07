@@ -96,3 +96,6 @@ applications in any of these areas. Rather, the current
 inadequacies are an accidental consequence of the
 poor conceptual and technological foundation of the
 web development technologies today. 
+
+#### Stuart Halloway, [The Impedance Mismatch is Our Fault](https://www.infoq.com/presentations/Impedance-Mismatch)
+Impedance mismatch is a problem of our own making, and we invented it because both object-orientation and relational model are hoplessly complected.
