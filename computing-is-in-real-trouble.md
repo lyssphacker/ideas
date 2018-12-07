@@ -71,3 +71,4 @@ No. I've been continually working on the problem. I'm trying to put a new projec
 #### Alan Kay, [iPad UI is very poor in a myriad of ways](http://techland.time.com/2013/04/02/an-interview-with-computing-pioneer-alan-kay/)
 There is the desire of a consumer society to have no learning curves. This tends to result in very dumbed-down products that are easy to get started on, but are generally worthless and/or debilitating. We can contrast this with technologies that do have learning curves, but pay off well and allow users to become experts (for example, musical instruments, writing, bicycles, etc. and to a lesser extent automobiles).
 
+#### Alan Kay, [Complications are 100-1000s of times larger than complexity](https://www.youtube.com/watch?v=ubaX1Smg6pY&t=6m44s)
