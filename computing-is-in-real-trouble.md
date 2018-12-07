@@ -128,3 +128,6 @@ Even with the poor use of gazillions of gates in modern CPUs, it is possible to 
 TI: A very nice dream, but the modern instantiation of hypervisors has proven repeatedly that the walls of the sandbox are way, way too thin. I’d be happy to change my tune if folks were able to demonstrate something robust. I’m not holding my breath.
 
 Until then the responsible amount of computation that can be done on the client has to be exceedingly limited and undoubtedly inadequate by your standards. Sorry to say this, but we’ve blown off security for far too long and it’s now come back to bite us. Until we fix it, we won’t be making significant forward progress.
+
+#### Gerry Sussman, [People worry about security. Well they have no idea how to handle security](https://github.com/lyssphacker/talks/blob/master/we-really-do-not-know-how-to-compute/we-really-do-not-know-how-to-compute.md)
+People worry about security. Well they have no idea how to handle security. We will find out for example that humans manage to survive for about 70 years. We are continuously attacked by the parasites. It must be that there are some bad things we are doing. It is all in that GB of code. You have to think about that. We certainly have no good ideas how to make things last for very long time by continuously being attacked by mutating parasites.
