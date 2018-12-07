@@ -66,4 +66,5 @@ That by and large is what happened to personal computing since it came out comme
 #### Marvin Minsky, [AI has been brain dead since the 1970s](https://www.wired.com/2003/08/why-a-i-is-brain-dead/)
 
 #### Alan Kay, [iPad UI is very poor in a myriad of ways](http://techland.time.com/2013/04/02/an-interview-with-computing-pioneer-alan-kay/)
+There is the desire of a consumer society to have no learning curves. This tends to result in very dumbed-down products that are easy to get started on, but are generally worthless and/or debilitating. We can contrast this with technologies that do have learning curves, but pay off well and allow users to become experts (for example, musical instruments, writing, bicycles, etc. and to a lesser extent automobiles).
 
