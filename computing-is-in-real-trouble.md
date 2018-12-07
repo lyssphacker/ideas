@@ -64,6 +64,8 @@ The Web - I will not go into my diatribe about the web, but the web browser is o
 That by and large is what happened to personal computing since it came out commerically in early 80s. It basically became vast narcissistic mirror for the largest proportion of users, worse than almost any kind of thing we could have invented. We invented a new way for people to admire themselves and ignore almost anything of consequence.
 
 #### Marvin Minsky, [AI has been brain dead since the 1970s](https://www.wired.com/2003/08/why-a-i-is-brain-dead/)
+If AI's brain-dead, aren't you partially to blame?
+No. I've been continually working on the problem. I'm trying to put a new project together, but it's hard to get 10 capable people. It would take five or ten years, and nobody wants to put that kind of time in - people want to double their money overnight.
 
 #### Alan Kay, [iPad UI is very poor in a myriad of ways](http://techland.time.com/2013/04/02/an-interview-with-computing-pioneer-alan-kay/)
 There is the desire of a consumer society to have no learning curves. This tends to result in very dumbed-down products that are easy to get started on, but are generally worthless and/or debilitating. We can contrast this with technologies that do have learning curves, but pay off well and allow users to become experts (for example, musical instruments, writing, bicycles, etc. and to a lesser extent automobiles).
