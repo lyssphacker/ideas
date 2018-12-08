@@ -74,7 +74,7 @@ There is the desire of a consumer society to have no learning curves. This tends
 #### Alan Kay, [Complications are 100-1000s of times larger than complexity](https://www.youtube.com/watch?v=ubaX1Smg6pY&t=6m44s)
 There are 2 terms here. Complications, sometimes called accidental complexity, people trying to make it look better. Actually a lot of complications we put into code is not really that accidental, it comes from bad process. Complexity is some intrinsic measure of what the meaning of the code is. It is really hard to define ... We would like complications to be very close to the intrinsic complexity, and what we've got where the amount of complications can be hunderd, maybe thousands of times more.
 
-#### Alan Kay, [Enourmous amount of noise and artifacts from the middle](http://www.youtube.com/watch?v=YyIQKBzIuBY&t=31m30s)
+#### Alan Kay, [Enormous amount of noise and artifacts from the middle](http://www.youtube.com/watch?v=YyIQKBzIuBY&t=31m30s)
 If we are going to take all of the people in our field and look at the super bright there are more than they were 40-50 years ago, but the relative number is much worse because the total number increased tremendeously and the absolute number of super bright has not increased commensurately. So there is enormous amount of noise from the middle today in the field.
 
 #### Tommi Mikkonen and Antero Taivalsaari, [Web Applications – Spaghetti Code for the 21st Century](http://www.lively-kernel.org/repository/lively-kernel/trunk/doc/papers/SERA2008/SERA2008-Spaghetti-FINAL.pdf)
