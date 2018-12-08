@@ -35,7 +35,7 @@ of robust systems.
 #### Alan Kay, [Most code looks like a garbage dump](https://www.youtube.com/watch?v=tp9VbtLn2Jw&t=7m40s)
 Code is not organized nearly as nicely as a book. It looks more like garbage dump. It is the kind of thing that would be condemned if anybody could ever look at it, but if you look at garbage dump through a window about this big, it only looks slightly messy. If you could look at the entire garbage dump I think we would be horrified. It is not really a dump, because people have to live with this. So perhaps, this is a city after a great disaster where people are still forced to live.
 
-#### Alan Kay, [Software has fallen short](https://www.youtube.com/watch?v=tp9VbtLn2Jw)
+#### Alan Kay, [Software has fallen short](https://www.youtube.com/watch?v=tp9VbtLn2Jw=44m10s)
 (paraphrasing) If the computing does not reach higher qualitative bar in the next 10 years ... it will just be gone, and what we'll have is enormous ad-hoc mechanisms, in one of the longest, slowest crashes in history.
 
 #### Alan Kay, [Software is slum-like](https://www.youtube.com/watch?v=QboI_1WJUlM&t=17m44s)
