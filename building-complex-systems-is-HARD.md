@@ -9,3 +9,5 @@ Frederick Brooks also made the point I think he's right that sort of the predict
 
 #### [Everybody who is a programmer spends most of his life fixing code that is already built](https://github.com/lyssphacker/talks/blob/master/flexible-systems-power-of-generic-operations/flexible-systems-power-of-generic-operations.md)
 And the reason why I am worried about that is because I think they are worried about the wrong things, most of the time. What I want to make sure is, that it is not the case that I am going to spend the rest of my life ... everybody who is a programmer spends most of his life fixing code that is already built, that somebody else had built, which in fact should not be a problem. It should be easy to do that. The hard stuff should be coming up with the ideas and organizations that do not have this problem. Inspiration for that is Emacs. Emacs is a gorgeous program explicitly because of the fact that 10000 people had written parts of it, and it still works, it is reliable.
+
+#### Alan Kay: I cannot detect many architects around today
