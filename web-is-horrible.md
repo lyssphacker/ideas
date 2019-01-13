@@ -23,3 +23,5 @@ So here's a couple of knocks on the head I had over the years. I just want to te
 
 #### [We should have programming language for the Internet](https://www.youtube.com/watch?v=tp9VbtLn2Jw&t=29m10s)
 
+#### [Significant portions of HTML itself and its supporting DOM APIs are in-fact bugs](https://www.quora.com/What-is-the-best-example-of-a-bug-that-couldnt-be-fixed-anymore-because-too-many-people-relied-on-it/answer/Dan-Shappir-1?ch=10&share=a4b7a204&srid=u26pR)
+
