@@ -11,3 +11,12 @@ Paul Graham: For me personally, I cannot program in a language that does not hav
 Guy Steele: For the languages that do no have macros I find myself in effect use them in my pseudo-code and then hand-expanding them, and as a result getting code that might be somewhat less maintainable because some of the abstractions are not apparent any more.  
 Jonathan Reese: I write a preprocessor for the language that does not have macros. Not necessarily implementing macros, but doing what I want for particular application. 
 
+[Vladimir Sedach](https://news.ycombinator.com/item?id=645338)  
+I used to like arguing over the Internet about this subject. There are many good technical and management/organizational arguments you can make for and against macros. What I've come to realize is they're all pretty much irrelevant.
+The entire point of programming is automation. The question that immediately comes to mind after you learn this fact is - why not program a computer to program itself? Macros are a simple mechanism for generating code, in other words, automating programming. Unless your system includes a better mechanism for automating programming (so far, I have not seen any such mechanisms), _not_ having macros means that you basically don't understand _why_ you are writing code.
+
+This is why it is not surprising that most software sucks - a lot of programmers only have a very shallow understanding of why they are programming. Even many hackers just hack because it's fun. So is masturbation.
+
+This is also the reason why functional programming languages ignore macros. The people behind them are not interested in programming automation. Wadler created ML to help automate proofs. The Haskell gang is primarily interested in advancing applied type theory.
+
+Which brings me to my last point: as you probably know, the reputation of the functional programming people as intelligent is not baseless. You don't need macros if you know what you are doing (your domain), and your system is already targeted at your domain. Adding macros to ML will have no impact on its usefulness for building theorem provers. You can't make APL or Matlab better languages for working with arrays by adding macros. But as soon as you need to express new domain concepts in a language that does not natively support them, macros become essential to maintaining good, concise code. This IMO is the largest missing piece in most projects based around domain-driven design.
