@@ -24,3 +24,5 @@
 
 #### [Life is terrible - let's talk about the web](https://vimeo.com/111122950)
 
+#### [Web is broken](https://www.youtube.com/watch?v=-I_jE0l7sYQ&t=42m55s)
+
