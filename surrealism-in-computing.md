@@ -1,4 +1,4 @@
-In computing often it is not clear whether something is a joke or a serious thing, artistic expression which reminds of a surrealism, or something done in full seriousness.  
+In computing often it is not clear whether something is a joke or a serious thing, artistic expression which reminds of a surrealism, or something done in all seriousness.  
 
 Manifestations of that kind:  
 1. Jenkins - tweaking complex pipelines via **Web** UI is cool
