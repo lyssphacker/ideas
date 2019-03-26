@@ -1,4 +1,4 @@
-== Resources ==
+== Resources ==  
 https://underscore.io/books/essential-scala/  
 https://danielwestheide.com/  
 https://www.manning.com/books/functional-programming-in-scala  
@@ -26,4 +26,4 @@ https://github.com/outr/scribe
 
 https://github.com/underscoreio/advanced-scala  
 
-Now, I would also add Metals to it. Well-written code and easy to make changes to.
+https://github.com/scalameta/metals
